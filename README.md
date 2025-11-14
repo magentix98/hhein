@@ -66,6 +66,6 @@ Internal demo project to automate reading & extracting data from invoices and re
 
 - **LinkedIn:** https://www.linkedin.com/in/horst-hein  
 - **Website:** *coming soon*  
-- **Email:** *your-email-here*
+- **Email:** horst.hein@rm-gmbh.de
 
 ---
